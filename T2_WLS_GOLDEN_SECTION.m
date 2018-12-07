@@ -257,4 +257,4 @@ T2_GS_red_denoised=T2_GS_rgb.*~Noise_mask_red+Noise_mask_red;
 imshow(T2_GS_red_denoised,'InitialMagnification','fit','Border','tight')
 % export_fig T2_GS_red_denoised.tif  -transparent -native
 commandwindow
-cd('I:\Code\matlab\jm\m_files')
+
